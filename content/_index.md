@@ -11,7 +11,7 @@ sections:
         Wow
         Research Group
       image:
-        filename: welcome.jpg
+        filename: ff.jpg
       text: |
         <br>
         
