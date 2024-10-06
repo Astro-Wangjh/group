@@ -10,7 +10,8 @@ last_name: 安
 superuser: false
 
 # Role/position
-role: Phd student in NJU
+role: Phd student in astrophysics   
+      NJU
 
 # Organizations/Affiliations
 organizations:
