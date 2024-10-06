@@ -10,6 +10,7 @@ sections:
       title: |
         SSNC
         Research Group
+        {style="color: white"}
       image:
         filename: ff.png
       text: |
