@@ -10,7 +10,7 @@ last_name: Bighetti
 superuser: true
 
 # Role/position
-role: Researcher and Professor at NAOC
+role: Researcher and Professor 
 
 # Organizations/Affiliations
 organizations:
