@@ -22,7 +22,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: back.png
+          filename: back2.png
           filters:
             brightness: 1
           parallax: false
