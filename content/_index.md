@@ -11,7 +11,7 @@ sections:
         SSNC
         Research Group
       image:
-        filename: ff.jpg
+        filename: ff.png
       text: |
         <br>
 
