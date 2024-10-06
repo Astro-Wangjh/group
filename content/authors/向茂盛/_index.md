@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 向茂盛
 
 # Full Name (for SEO)
 first_name: Nelson
@@ -10,7 +10,7 @@ last_name: Bighetti
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher and Professor at NAOC
 
 # Organizations/Affiliations
 organizations:
