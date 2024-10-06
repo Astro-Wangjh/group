@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: wow
+title: SSNC
 date: 2022-10-24
 type: landing
 
@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wow
+        SSNC
         Research Group
       image:
         filename: ff.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+        The **SSNC Research Group** has focused on research related to spectroscopic surveys and near-field cosmology since its establishment at NAOC in 2022.
   
   - block: collection
     content:
