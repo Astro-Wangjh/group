@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
 
-        The **SSNC Research Group** has focused on research related to spectroscopic surveys and near-field cosmology since its establishment at NAOC in 2022.
+        The **SSNC Research Group** has focused on research related to spectroscopic surveys and near-field cosmology since its was founded at NAOC in 2022.
         {style="color: white"}
     design:
       columns: '1'
