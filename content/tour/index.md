@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: tour2.png
+            filename: tour2.jpg
             filters:
               brightness: 0.7
           position: center
