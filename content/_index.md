@@ -16,6 +16,22 @@ sections:
         <br>
 
         The **SSNC Research Group** has focused on research related to spectroscopic surveys and near-field cosmology since its establishment at NAOC in 2022.
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+
   
   - block: collection
     content:
